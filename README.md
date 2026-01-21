@@ -9,10 +9,10 @@ Welcome to my academic portfolio for (put your course name and section here)!
 - Favorite Programming Language: lua
  
 ## Course Goals
-- [ ] Learn version control with Git and GitHub
-- [ ] Complete all lab assignments
-- [ ] Build a professional portfolio
-- [ ] Collaborate on group projects
+- [x] Learn version control with Git and GitHub
+- [x] Complete all lab assignments
+- [x] Build a professional portfolio
+- [x] Collaborate on group projects
  
 ## Projects
 *This section will be updated as I complete assignments*
